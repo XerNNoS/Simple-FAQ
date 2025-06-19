@@ -8,12 +8,12 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
     <a href="https://devchallenges.io/challenge/simple-faq-challenge">
       Challenge
+    </a>
+    <span> | </span>
+    <a href="https://xernnos.github.io/Simple-FAQ/">
+      Solution
     </a>
   </h3>
 </div>
@@ -31,7 +31,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/XerNNoS/Simple-FAQ/refs/heads/main/FAQ/FAQ.png)
+![screenshot](https://raw.githubusercontent.com/XerNNoS/Simple-FAQ/refs/heads/main/FAQ.png)
 
 <!--
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
@@ -57,5 +57,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- Linkedin [your-website.com](https://https://www.linkedin.com/in/louis-escamilla/)
-- GitHub [@your-username](https://https://github.com/XerNNoS/)
+- [Linkedin](https://https://www.linkedin.com/in/louis-escamilla/)
+- [GitHub](https://https://github.com/XerNNoS/)
